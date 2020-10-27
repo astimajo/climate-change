@@ -1,10 +1,10 @@
 # Climate Change Analysis - Linear Regression (Azure Notebooks)
 
 Requirements:
-1.) numpy
-2.) matplotlib
-3.) scikitlearn
-4.) seaborn
+- numpy
+- matplotlib
+- scikitlearn
+- seaborn
 
 This project is an analysis of the current trajectory of Earth's increasing temperatures.
 In this analysis we can see that the Earth's temperature is becoming too hot, thus showing
